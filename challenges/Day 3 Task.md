@@ -178,7 +178,7 @@ This is mostly about wiring MCP calls to specific conversational moments.
 
 -----
 
-- Step 1: You only need the **primary goal** to complete Day 3; the **Advanced Goals** is for going the extra mile.
+- Step 1: You only need the **primary goal** to complete Day 3; the **Advanced Goals** are for going the extra mile.
 - Step 2: **Successfully connect to the Health & Wellness Voice Companion** in your browser and have a conversation.
 - Step 3: **Record a short video** of your session with the agent and show the JSON file persisting the conversation in `wellness_log.json`.
 - Step 4: **Post the video on LinkedIn** with a description of what you did for the task on Day 3. Also, mention that you are building voice agent using the fastest TTS API - Murf Falcon. Mention that you are part of the **“Murf AI Voice Agent Challenge”** and don't forget to tag the official Murf AI handle. Also, use hashtags **#MurfAIVoiceAgentsChallenge** and **#10DaysofAIVoiceAgents**
